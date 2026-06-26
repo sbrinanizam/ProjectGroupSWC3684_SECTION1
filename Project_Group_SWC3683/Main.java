@@ -2,6 +2,7 @@ import javax.swing.*;
 
 public class Main {
     public static void main(String[] args){
+        //Test edit
 
         //Create LogisticsManager object to handle all logistics operations
         LogisticsManager lm = new LogisticsManager();
