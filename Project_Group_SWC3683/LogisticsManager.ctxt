@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=LogisticsManager
+comment1.params=
+comment1.target=LogisticsManager()
+comment2.params=fileName
+comment2.target=java.lang.String\ loadFile(java.lang.String)
+comment3.params=
+comment3.target=void\ createQueue()
+comment4.params=queue
+comment4.target=void\ displayQueue(java.util.Queue)
+numComments=5

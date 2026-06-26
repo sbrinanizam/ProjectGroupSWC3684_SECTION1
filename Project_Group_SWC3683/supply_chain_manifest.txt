@@ -1,0 +1,100 @@
+CR001|Ocean Link Logistics|Hybrid Truck|SHP001|Electronics|1|2026-06-01|10|201.0
+CR001|Ocean Link Logistics|Hybrid Truck|SHP002|Electronics|2|2026-06-02|11|202.0
+CR001|Ocean Link Logistics|Hybrid Truck|SHP003|Electronics|1|2026-06-01|10|203.0
+CR001|Ocean Link Logistics|Hybrid Truck|SHP004|Electronics|2|2026-06-02|11|204.0
+CR001|Ocean Link Logistics|Hybrid Truck|SHP005|Electronics|1|2026-06-01|10|205.0
+CR001|Ocean Link Logistics|Hybrid Truck|SHP006|Electronics|2|2026-06-02|11|206.0
+CR001|Ocean Link Logistics|Hybrid Truck|SHP007|Electronics|1|2026-06-01|10|207.0
+CR001|Ocean Link Logistics|Hybrid Truck|SHP008|Electronics|2|2026-06-02|11|208.0
+CR001|Ocean Link Logistics|Hybrid Truck|SHP009|Electronics|1|2026-06-01|10|209.0
+CR001|Ocean Link Logistics|Hybrid Truck|SHP010|Electronics|2|2026-06-02|11|210.0
+CR002|Alpha Shipping Co.|Electric Van|SHP011|Perishables|1|2026-06-01|8|161.0
+CR002|Alpha Shipping Co.|Electric Van|SHP012|Perishables|2|2026-06-02|9|162.0
+CR002|Alpha Shipping Co.|Electric Van|SHP013|Perishables|3|2026-06-03|10|163.0
+CR002|Alpha Shipping Co.|Electric Van|SHP014|Perishables|1|2026-06-01|8|164.0
+CR002|Alpha Shipping Co.|Electric Van|SHP015|Perishables|2|2026-06-02|9|165.0
+CR002|Alpha Shipping Co.|Electric Van|SHP016|Perishables|3|2026-06-03|10|166.0
+CR002|Alpha Shipping Co.|Electric Van|SHP017|Perishables|1|2026-06-01|8|167.0
+CR002|Alpha Shipping Co.|Electric Van|SHP018|Perishables|2|2026-06-02|9|168.0
+CR002|Alpha Shipping Co.|Electric Van|SHP019|Perishables|3|2026-06-03|10|169.0
+CR002|Alpha Shipping Co.|Electric Van|SHP020|Perishables|1|2026-06-01|8|170.0
+CR003|Metro Express Carriers|Electric Van|SHP021|Perishables|2|2026-06-02|9|171.0
+CR003|Metro Express Carriers|Electric Van|SHP022|Perishables|3|2026-06-03|10|172.0
+CR003|Metro Express Carriers|Electric Van|SHP023|Perishables|1|2026-06-01|8|173.0
+CR003|Metro Express Carriers|Electric Van|SHP024|Perishables|2|2026-06-02|9|174.0
+CR003|Metro Express Carriers|Electric Van|SHP025|Perishables|3|2026-06-03|10|175.0
+CR003|Metro Express Carriers|Freight Train|SHP026|Apparel|1|2026-06-01|18|326.0
+CR003|Metro Express Carriers|Freight Train|SHP027|Apparel|2|2026-06-02|19|327.0
+CR003|Metro Express Carriers|Freight Train|SHP028|Apparel|3|2026-06-03|20|328.0
+CR003|Metro Express Carriers|Freight Train|SHP029|Apparel|4|2026-06-04|21|329.0
+CR003|Metro Express Carriers|Freight Train|SHP030|Apparel|1|2026-06-05|22|330.0
+CR004|Eagle Logistics Network|Freight Train|SHP031|Apparel|1|2026-06-01|18|331.0
+CR004|Eagle Logistics Network|Freight Train|SHP032|Apparel|2|2026-06-02|19|332.0
+CR004|Eagle Logistics Network|Freight Train|SHP033|Apparel|3|2026-06-03|20|333.0
+CR004|Eagle Logistics Network|Freight Train|SHP034|Apparel|4|2026-06-04|21|334.0
+CR004|Eagle Logistics Network|Freight Train|SHP035|Apparel|1|2026-06-05|22|335.0
+CR004|Eagle Logistics Network|Freight Train|SHP036|Apparel|1|2026-06-01|18|336.0
+CR004|Eagle Logistics Network|Freight Train|SHP037|Apparel|2|2026-06-02|19|337.0
+CR004|Eagle Logistics Network|Freight Train|SHP038|Apparel|3|2026-06-03|20|338.0
+CR004|Eagle Logistics Network|Freight Train|SHP039|Apparel|4|2026-06-04|21|339.0
+CR004|Eagle Logistics Network|Freight Train|SHP040|Apparel|1|2026-06-05|22|340.0
+CR005|Prime Cargo Solutions|Freight Train|SHP041|Apparel|1|2026-06-01|18|341.0
+CR005|Prime Cargo Solutions|Freight Train|SHP042|Apparel|2|2026-06-02|19|342.0
+CR005|Prime Cargo Solutions|Freight Train|SHP043|Apparel|3|2026-06-03|20|343.0
+CR005|Prime Cargo Solutions|Freight Train|SHP044|Apparel|4|2026-06-04|21|344.0
+CR005|Prime Cargo Solutions|Freight Train|SHP045|Apparel|1|2026-06-05|22|345.0
+CR005|Prime Cargo Solutions|Freight Train|SHP046|Apparel|1|2026-06-01|18|346.0
+CR005|Prime Cargo Solutions|Freight Train|SHP047|Apparel|2|2026-06-02|19|347.0
+CR005|Prime Cargo Solutions|Freight Train|SHP048|Apparel|3|2026-06-03|20|348.0
+CR005|Prime Cargo Solutions|Freight Train|SHP049|Apparel|4|2026-06-04|21|349.0
+CR005|Prime Cargo Solutions|Freight Train|SHP050|Apparel|1|2026-06-05|22|350.0
+CR006|GreenLine Cargo|Freight Train|SHP051|Apparel|1|2026-06-01|18|351.0
+CR006|GreenLine Cargo|Freight Train|SHP052|Apparel|2|2026-06-02|19|352.0
+CR006|GreenLine Cargo|Freight Train|SHP053|Apparel|3|2026-06-03|20|353.0
+CR006|GreenLine Cargo|Freight Train|SHP054|Apparel|4|2026-06-04|21|354.0
+CR006|GreenLine Cargo|Freight Train|SHP055|Apparel|1|2026-06-05|22|355.0
+CR006|GreenLine Cargo|Freight Train|SHP056|Apparel|1|2026-06-01|18|356.0
+CR006|GreenLine Cargo|Freight Train|SHP057|Apparel|2|2026-06-02|19|357.0
+CR006|GreenLine Cargo|Freight Train|SHP058|Apparel|3|2026-06-03|20|358.0
+CR006|GreenLine Cargo|Freight Train|SHP059|Apparel|4|2026-06-04|21|359.0
+CR006|GreenLine Cargo|Freight Train|SHP060|Apparel|1|2026-06-05|22|360.0
+CR007|Golden Track Freight|Freight Train|SHP061|Apparel|1|2026-06-01|18|361.0
+CR007|Golden Track Freight|Freight Train|SHP062|Apparel|2|2026-06-02|19|362.0
+CR007|Golden Track Freight|Freight Train|SHP063|Apparel|3|2026-06-03|20|363.0
+CR007|Golden Track Freight|Freight Train|SHP064|Apparel|4|2026-06-04|21|364.0
+CR007|Golden Track Freight|Freight Train|SHP065|Apparel|1|2026-06-05|22|365.0
+CR007|Golden Track Freight|Freight Train|SHP066|Apparel|1|2026-06-01|18|366.0
+CR007|Golden Track Freight|Freight Train|SHP067|Apparel|2|2026-06-02|19|367.0
+CR007|Golden Track Freight|Freight Train|SHP068|Apparel|3|2026-06-03|20|368.0
+CR007|Golden Track Freight|Freight Train|SHP069|Apparel|4|2026-06-04|21|369.0
+CR007|Golden Track Freight|Freight Train|SHP070|Apparel|1|2026-06-05|22|370.0
+CR008|Infinity Rail Solutions|Freight Train|SHP071|Apparel|1|2026-06-01|18|371.0
+CR008|Infinity Rail Solutions|Freight Train|SHP072|Apparel|2|2026-06-02|19|372.0
+CR008|Infinity Rail Solutions|Freight Train|SHP073|Apparel|3|2026-06-03|20|373.0
+CR009|Nexus Railway Logistics|Freight Train|SHP074|Apparel|4|2026-06-04|21|374.0
+CR009|Nexus Railway Logistics|Freight Train|SHP075|Apparel|1|2026-06-05|22|375.0
+CR009|Nexus Railway Logistics|Freight Train|SHP076|Apparel|1|2026-06-01|18|376.0
+CR010|SwiftTrack Cargo|Freight Train|SHP077|Apparel|2|2026-06-02|19|377.0
+CR010|SwiftTrack Cargo|Freight Train|SHP078|Apparel|3|2026-06-03|20|378.0
+CR010|SwiftTrack Cargo|Freight Train|SHP079|Apparel|4|2026-06-04|21|379.0
+CR011|IronHorse Logistics|Freight Train|SHP080|Apparel|1|2026-06-05|22|380.0
+CR011|IronHorse Logistics|Freight Train|SHP081|Apparel|1|2026-06-01|18|381.0
+CR011|IronHorse Logistics|Freight Train|SHP082|Apparel|2|2026-06-02|19|382.0
+CR012|TransNational Rail Cargo|Freight Train|SHP083|Apparel|3|2026-06-03|20|383.0
+CR012|TransNational Rail Cargo|Freight Train|SHP084|Apparel|4|2026-06-04|21|384.0
+CR012|TransNational Rail Cargo|Freight Train|SHP085|Apparel|1|2026-06-05|22|385.0
+CR013|Velocity Rail Services|Freight Train|SHP086|Apparel|1|2026-06-01|18|386.0
+CR013|Velocity Rail Services|Freight Train|SHP087|Apparel|2|2026-06-02|19|387.0
+CR013|Velocity Rail Services|Freight Train|SHP088|Apparel|3|2026-06-03|20|388.0
+CR014|BlueTrack Cargo Systems|Freight Train|SHP089|Apparel|4|2026-06-04|21|389.0
+CR014|BlueTrack Cargo Systems|Freight Train|SHP090|Apparel|1|2026-06-05|22|390.0
+CR014|BlueTrack Cargo Systems|Freight Train|SHP091|Apparel|1|2026-06-01|18|391.0
+CR015|Diamond Rail Logistics|Freight Train|SHP092|Apparel|2|2026-06-02|19|392.0
+CR015|Diamond Rail Logistics|Freight Train|SHP093|Apparel|3|2026-06-03|20|393.0
+CR015|Diamond Rail Logistics|Freight Train|SHP094|Apparel|4|2026-06-04|21|394.0
+CR016|SkyBridge Logistics|Freight Train|SHP095|Apparel|1|2026-06-05|22|395.0
+CR016|SkyBridge Logistics|Freight Train|SHP096|Apparel|1|2026-06-01|18|396.0
+CR016|SkyBridge Logistics|Freight Train|SHP097|Apparel|2|2026-06-02|19|397.0
+CR017|FastTrack Transport|Freight Train|SHP098|Apparel|3|2026-06-03|20|398.0
+CR017|FastTrack Transport|Freight Train|SHP099|Apparel|4|2026-06-04|21|399.0
+CR017|FastTrack Transport|Freight Train|SHP100|Apparel|1|2026-06-05|22|400.0

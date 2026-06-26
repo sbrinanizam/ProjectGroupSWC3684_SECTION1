@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=CarrierInfo
+comment1.params=carrierId\ carrierName\ fleetType
+comment1.target=CarrierInfo(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=shipment
+comment2.target=void\ addShipment(ShipmentInfo)
+comment3.params=
+comment3.target=java.util.List\ getShipmentList()
+comment4.params=
+comment4.target=java.lang.String\ getCarrierId()
+comment5.params=carrierId
+comment5.target=void\ setCarrierId(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getCarrierName()
+comment7.params=carrierName
+comment7.target=void\ setCarrierName(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getFleetType()
+comment9.params=fleetType
+comment9.target=void\ setFleetType(java.lang.String)
+numComments=10
