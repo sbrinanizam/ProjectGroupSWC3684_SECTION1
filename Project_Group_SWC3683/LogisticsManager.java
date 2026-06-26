@@ -4,6 +4,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.LinkedList;
 import java.util.Queue;
+import java.util.Stack;
 import java.util.StringTokenizer;
 
 public class LogisticsManager{
@@ -15,6 +16,7 @@ public class LogisticsManager{
     Queue<CarrierInfo> regional = new LinkedList<>();
     Queue<CarrierInfo> crossBorder = new LinkedList<>();
     Queue<CarrierInfo> industrial = new LinkedList<>();
+    Stack<CarrierInfo> dispatchedStack = new Stack<>();
 
     public LogisticsManager(){
     }
@@ -59,7 +61,7 @@ public class LogisticsManager{
                         break;
                     }
                 }
-                //If carrier does not exists, create a new carrier object and store it
+                //If carrier does not exist, create a new carrier object and store it
                 if (existCarrier == null){
                     existCarrier = new CarrierInfo(tokenCarrierId, tokenCarrierName, tokenCarrierFleet);
 
@@ -144,6 +146,52 @@ public class LogisticsManager{
             System.out.println("\nTotal Carbon Tax Cost: RM" + totalCarbonTax);
             System.out.println("----------------------------------------\n");
         }
+    }
+    //Process carriers from all queues and move them into the stack
+    public void processShipment()
+    {
+        processFive(regional);
+        processFive(crossBorder);
+        processFive(industrial);
+    }
+    //Process up to 5 carriers from the selected queue
+    private void processFive(Queue<CarrierInfo> queue)
+    {
+        int count = 0;
 
+        while (!queue.isEmpty() && count < 5)
+        {
+            CarrierInfo carrier = queue.poll();
+
+            //Push processed carrier into the dispatched stack
+            dispatchedStack.push(carrier);
+
+            count++;
+        }
+    }
+    //Display final departure records by popping carriers from the stack
+    public void departureLog()
+    {
+        System.out.println("===== FINAL DEPARTURE LOG =====");
+
+        while (!dispatchedStack.isEmpty())
+        {
+            CarrierInfo carrier = dispatchedStack.pop();
+
+            System.out.println("Carrier Name : " + carrier.getCarrierName());
+            System.out.println("Fleet Type   : " + carrier.getFleetType());
+            System.out.println("Total Shipments : " + carrier.getShipmentList().size());
+
+            double totalCarbon = 0;
+
+            //Calculate total carbon tax cost for the carrier
+            for (ShipmentInfo shipment : carrier.getShipmentList())
+            {
+                totalCarbon += shipment.getCarbonTaxCost();
+            }
+
+            System.out.println("Total Carbon Tax Cost : RM " + totalCarbon);
+            System.out.println("----------------------------------");
+        }
     }
 }
