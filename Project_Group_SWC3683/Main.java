@@ -77,6 +77,7 @@ public class Main {
 
                 case 6://EXIT
                     //Stop the menu loop and close all the system
+                    JOptionPane.showMessageDialog(null, "System Closed.");
                     loop = false;
                     break;
             }
