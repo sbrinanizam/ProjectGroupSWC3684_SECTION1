@@ -16,6 +16,8 @@ public class LogisticsManager{
     Queue<CarrierInfo> regional = new LinkedList<>();
     Queue<CarrierInfo> crossBorder = new LinkedList<>();
     Queue<CarrierInfo> industrial = new LinkedList<>();
+
+    //Create stack to store processed carriers before departure log
     Stack<CarrierInfo> dispatchedStack = new Stack<>();
 
     public LogisticsManager(){
@@ -150,9 +152,13 @@ public class LogisticsManager{
     //Process carriers from all queues and move them into the stack
     public void processShipment()
     {
-        processFive(regional);
-        processFive(crossBorder);
-        processFive(industrial);
+        //Repeat processing until all queues are empty
+        while (!regional.isEmpty() || !crossBorder.isEmpty() || !industrial.isEmpty())
+        {
+            processFive(regional);
+            processFive(crossBorder);
+            processFive(industrial);
+        }
     }
     //Process up to 5 carriers from the selected queue
     private void processFive(Queue<CarrierInfo> queue)
