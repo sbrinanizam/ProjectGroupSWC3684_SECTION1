@@ -65,11 +65,14 @@ public class Main {
                     break;
 
                 case 4://PROCESS SHIPMENT
-                    //TODO: remove and process shipment from queue
+                    //Process carriers and move them into the dispatched stack
+                    lm.processShipment();
+                    JOptionPane.showMessageDialog(null, "Shipment Process Completed.");
                     break;
 
                 case 5://DEPARTURE LOG
-                    //TODO: display completed shipment departure record
+                    //Display departure records from the dispatched stack
+                    lm.departureLog();
                     break;
 
                 case 6://EXIT
